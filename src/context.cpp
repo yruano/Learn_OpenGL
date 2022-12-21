@@ -159,19 +159,33 @@ void Context::Render()
     {
       glClearColor(m_clearColor.x, m_clearColor.y, m_clearColor.z, m_clearColor.w);
     }
+
     ImGui::Separator();
     ImGui::DragFloat3("camera pos", glm::value_ptr(m_cameraPos), 0.01f);
     ImGui::DragFloat("camera yaw", &m_cameraYaw, 0.5f);
     ImGui::DragFloat("camera pitch", &m_cameraPitch, 0.5f, -89.0f, 89.0f);
     ImGui::Separator();
+
     if (ImGui::Button("reset camera"))
     {
       m_cameraYaw = 0.0f;
       m_cameraPitch = 0.0f;
       m_cameraPos = glm::vec3(0.0f, 0.0f, 3.0f);
     }
+
+    if (ImGui::CollapsingHeader("light"))
+    {
+      ImGui::ColorEdit3("light color", glm::value_ptr(m_lightColor));
+      ImGui::ColorEdit3("object color", glm::value_ptr(m_objectColor));
+      ImGui::SliderFloat("ambient strength", &m_ambientStrength, 0.0f, 1.0f);
+    }
   }
   ImGui::End();
+
+  m_program->Use();
+  m_program->SetUniform("lightColor", m_lightColor);
+  m_program->SetUniform("objectColor", m_objectColor);
+  m_program->SetUniform("ambientStrength", m_ambientStrength);
 
   std::vector<glm::vec3> cubePositions = 
   {

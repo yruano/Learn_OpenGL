@@ -61,7 +61,13 @@
     "cinttypes": "cpp",
     "typeinfo": "cpp",
     "variant": "cpp",
-    "program.h": "c"
+    "program.h": "c",
+    "bitset": "cpp",
+    "map": "cpp",
+    "set": "cpp",
+    "regex": "cpp",
+    "future": "cpp",
+    "iostream": "cpp"
   },
   "C_Cpp.errorSquiggles": "disabled",
   "C_Cpp.intelliSenseEngineFallback": "enabled"

@@ -1,0 +1,587 @@
+[
+{
+  "directory": "/home/dulu/opengl_ex/build",
+  "command": "/usr/bin/x86_64-w64-mingw32-g++ -DSPDLOG_COMPILED_LIB -DWINDOW_HEIGHT=540 -DWINDOW_NAME=\\\"first_opengl_example\\\" -DWINDOW_WIDTH=960 -I/usr/x86_64-w64-mingw32/include -I/home/dulu/opengl_ex/build/_deps/spdlog-src/include -I/home/dulu/opengl_ex/build/_deps/glfw-src/include -I/home/dulu/opengl_ex/build/_deps/glad-build/include -I/home/dulu/opengl_ex/build/_deps/glm-src/glm/.. -I/home/dulu/opengl_ex/build/_deps/imgui-src -isystem /home/dulu/opengl_ex/build/_deps/stb-src -O3 -DNDEBUG -std=gnu++20 -o CMakeFiles/learn_opengl.dir/src/buffer.cpp.obj -c /home/dulu/opengl_ex/src/buffer.cpp",
+  "file": "/home/dulu/opengl_ex/src/buffer.cpp"
+},
+{
+  "directory": "/home/dulu/opengl_ex/build",
+  "command": "/usr/bin/x86_64-w64-mingw32-g++ -DSPDLOG_COMPILED_LIB -DWINDOW_HEIGHT=540 -DWINDOW_NAME=\\\"first_opengl_example\\\" -DWINDOW_WIDTH=960 -I/usr/x86_64-w64-mingw32/include -I/home/dulu/opengl_ex/build/_deps/spdlog-src/include -I/home/dulu/opengl_ex/build/_deps/glfw-src/include -I/home/dulu/opengl_ex/build/_deps/glad-build/include -I/home/dulu/opengl_ex/build/_deps/glm-src/glm/.. -I/home/dulu/opengl_ex/build/_deps/imgui-src -isystem /home/dulu/opengl_ex/build/_deps/stb-src -O3 -DNDEBUG -std=gnu++20 -o CMakeFiles/learn_opengl.dir/src/common.cpp.obj -c /home/dulu/opengl_ex/src/common.cpp",
+  "file": "/home/dulu/opengl_ex/src/common.cpp"
+},
+{
+  "directory": "/home/dulu/opengl_ex/build",
+  "command": "/usr/bin/x86_64-w64-mingw32-g++ -DSPDLOG_COMPILED_LIB -DWINDOW_HEIGHT=540 -DWINDOW_NAME=\\\"first_opengl_example\\\" -DWINDOW_WIDTH=960 -I/usr/x86_64-w64-mingw32/include -I/home/dulu/opengl_ex/build/_deps/spdlog-src/include -I/home/dulu/opengl_ex/build/_deps/glfw-src/include -I/home/dulu/opengl_ex/build/_deps/glad-build/include -I/home/dulu/opengl_ex/build/_deps/glm-src/glm/.. -I/home/dulu/opengl_ex/build/_deps/imgui-src -isystem /home/dulu/opengl_ex/build/_deps/stb-src -O3 -DNDEBUG -std=gnu++20 -o CMakeFiles/learn_opengl.dir/src/context.cpp.obj -c /home/dulu/opengl_ex/src/context.cpp",
+  "file": "/home/dulu/opengl_ex/src/context.cpp"
+},
+{
+  "directory": "/home/dulu/opengl_ex/build",
+  "command": "/usr/bin/x86_64-w64-mingw32-g++ -DSPDLOG_COMPILED_LIB -DWINDOW_HEIGHT=540 -DWINDOW_NAME=\\\"first_opengl_example\\\" -DWINDOW_WIDTH=960 -I/usr/x86_64-w64-mingw32/include -I/home/dulu/opengl_ex/build/_deps/spdlog-src/include -I/home/dulu/opengl_ex/build/_deps/glfw-src/include -I/home/dulu/opengl_ex/build/_deps/glad-build/include -I/home/dulu/opengl_ex/build/_deps/glm-src/glm/.. -I/home/dulu/opengl_ex/build/_deps/imgui-src -isystem /home/dulu/opengl_ex/build/_deps/stb-src -O3 -DNDEBUG -std=gnu++20 -o CMakeFiles/learn_opengl.dir/src/main.cpp.obj -c /home/dulu/opengl_ex/src/main.cpp",
+  "file": "/home/dulu/opengl_ex/src/main.cpp"
+},
+{
+  "directory": "/home/dulu/opengl_ex/build",
+  "command": "/usr/bin/x86_64-w64-mingw32-g++ -DSPDLOG_COMPILED_LIB -DWINDOW_HEIGHT=540 -DWINDOW_NAME=\\\"first_opengl_example\\\" -DWINDOW_WIDTH=960 -I/usr/x86_64-w64-mingw32/include -I/home/dulu/opengl_ex/build/_deps/spdlog-src/include -I/home/dulu/opengl_ex/build/_deps/glfw-src/include -I/home/dulu/opengl_ex/build/_deps/glad-build/include -I/home/dulu/opengl_ex/build/_deps/glm-src/glm/.. -I/home/dulu/opengl_ex/build/_deps/imgui-src -isystem /home/dulu/opengl_ex/build/_deps/stb-src -O3 -DNDEBUG -std=gnu++20 -o CMakeFiles/learn_opengl.dir/src/program.cpp.obj -c /home/dulu/opengl_ex/src/program.cpp",
+  "file": "/home/dulu/opengl_ex/src/program.cpp"
+},
+{
+  "directory": "/home/dulu/opengl_ex/build",
+  "command": "/usr/bin/x86_64-w64-mingw32-g++ -DSPDLOG_COMPILED_LIB -DWINDOW_HEIGHT=540 -DWINDOW_NAME=\\\"first_opengl_example\\\" -DWINDOW_WIDTH=960 -I/usr/x86_64-w64-mingw32/include -I/home/dulu/opengl_ex/build/_deps/spdlog-src/include -I/home/dulu/opengl_ex/build/_deps/glfw-src/include -I/home/dulu/opengl_ex/build/_deps/glad-build/include -I/home/dulu/opengl_ex/build/_deps/glm-src/glm/.. -I/home/dulu/opengl_ex/build/_deps/imgui-src -isystem /home/dulu/opengl_ex/build/_deps/stb-src -O3 -DNDEBUG -std=gnu++20 -o CMakeFiles/learn_opengl.dir/src/shader.cpp.obj -c /home/dulu/opengl_ex/src/shader.cpp",
+  "file": "/home/dulu/opengl_ex/src/shader.cpp"
+},
+{
+  "directory": "/home/dulu/opengl_ex/build",
+  "command": "/usr/bin/x86_64-w64-mingw32-g++ -DSPDLOG_COMPILED_LIB -DWINDOW_HEIGHT=540 -DWINDOW_NAME=\\\"first_opengl_example\\\" -DWINDOW_WIDTH=960 -I/usr/x86_64-w64-mingw32/include -I/home/dulu/opengl_ex/build/_deps/spdlog-src/include -I/home/dulu/opengl_ex/build/_deps/glfw-src/include -I/home/dulu/opengl_ex/build/_deps/glad-build/include -I/home/dulu/opengl_ex/build/_deps/glm-src/glm/.. -I/home/dulu/opengl_ex/build/_deps/imgui-src -isystem /home/dulu/opengl_ex/build/_deps/stb-src -O3 -DNDEBUG -std=gnu++20 -o CMakeFiles/learn_opengl.dir/src/vertex_layout.cpp.obj -c /home/dulu/opengl_ex/src/vertex_layout.cpp",
+  "file": "/home/dulu/opengl_ex/src/vertex_layout.cpp"
+},
+{
+  "directory": "/home/dulu/opengl_ex/build",
+  "command": "/usr/bin/x86_64-w64-mingw32-g++ -I/home/dulu/opengl_ex/build/_deps/imgui-src -I/home/dulu/opengl_ex/build/_deps/glad-build/include -I/home/dulu/opengl_ex/build/_deps/glfw-src/include -O3 -DNDEBUG -o CMakeFiles/imgui.dir/_deps/imgui-src/imgui.cpp.obj -c /home/dulu/opengl_ex/build/_deps/imgui-src/imgui.cpp",
+  "file": "/home/dulu/opengl_ex/build/_deps/imgui-src/imgui.cpp"
+},
+{
+  "directory": "/home/dulu/opengl_ex/build",
+  "command": "/usr/bin/x86_64-w64-mingw32-g++ -I/home/dulu/opengl_ex/build/_deps/imgui-src -I/home/dulu/opengl_ex/build/_deps/glad-build/include -I/home/dulu/opengl_ex/build/_deps/glfw-src/include -O3 -DNDEBUG -o CMakeFiles/imgui.dir/_deps/imgui-src/imgui_demo.cpp.obj -c /home/dulu/opengl_ex/build/_deps/imgui-src/imgui_demo.cpp",
+  "file": "/home/dulu/opengl_ex/build/_deps/imgui-src/imgui_demo.cpp"
+},
+{
+  "directory": "/home/dulu/opengl_ex/build",
+  "command": "/usr/bin/x86_64-w64-mingw32-g++ -I/home/dulu/opengl_ex/build/_deps/imgui-src -I/home/dulu/opengl_ex/build/_deps/glad-build/include -I/home/dulu/opengl_ex/build/_deps/glfw-src/include -O3 -DNDEBUG -o CMakeFiles/imgui.dir/_deps/imgui-src/imgui_draw.cpp.obj -c /home/dulu/opengl_ex/build/_deps/imgui-src/imgui_draw.cpp",
+  "file": "/home/dulu/opengl_ex/build/_deps/imgui-src/imgui_draw.cpp"
+},
+{
+  "directory": "/home/dulu/opengl_ex/build",
+  "command": "/usr/bin/x86_64-w64-mingw32-g++ -I/home/dulu/opengl_ex/build/_deps/imgui-src -I/home/dulu/opengl_ex/build/_deps/glad-build/include -I/home/dulu/opengl_ex/build/_deps/glfw-src/include -O3 -DNDEBUG -o CMakeFiles/imgui.dir/_deps/imgui-src/imgui_tables.cpp.obj -c /home/dulu/opengl_ex/build/_deps/imgui-src/imgui_tables.cpp",
+  "file": "/home/dulu/opengl_ex/build/_deps/imgui-src/imgui_tables.cpp"
+},
+{
+  "directory": "/home/dulu/opengl_ex/build",
+  "command": "/usr/bin/x86_64-w64-mingw32-g++ -I/home/dulu/opengl_ex/build/_deps/imgui-src -I/home/dulu/opengl_ex/build/_deps/glad-build/include -I/home/dulu/opengl_ex/build/_deps/glfw-src/include -O3 -DNDEBUG -o CMakeFiles/imgui.dir/_deps/imgui-src/imgui_widgets.cpp.obj -c /home/dulu/opengl_ex/build/_deps/imgui-src/imgui_widgets.cpp",
+  "file": "/home/dulu/opengl_ex/build/_deps/imgui-src/imgui_widgets.cpp"
+},
+{
+  "directory": "/home/dulu/opengl_ex/build",
+  "command": "/usr/bin/x86_64-w64-mingw32-g++ -I/home/dulu/opengl_ex/build/_deps/imgui-src -I/home/dulu/opengl_ex/build/_deps/glad-build/include -I/home/dulu/opengl_ex/build/_deps/glfw-src/include -O3 -DNDEBUG -o CMakeFiles/imgui.dir/_deps/imgui-src/backends/imgui_impl_opengl3.cpp.obj -c /home/dulu/opengl_ex/build/_deps/imgui-src/backends/imgui_impl_opengl3.cpp",
+  "file": "/home/dulu/opengl_ex/build/_deps/imgui-src/backends/imgui_impl_opengl3.cpp"
+},
+{
+  "directory": "/home/dulu/opengl_ex/build",
+  "command": "/usr/bin/x86_64-w64-mingw32-g++ -I/home/dulu/opengl_ex/build/_deps/imgui-src -I/home/dulu/opengl_ex/build/_deps/glad-build/include -I/home/dulu/opengl_ex/build/_deps/glfw-src/include -O3 -DNDEBUG -o CMakeFiles/imgui.dir/_deps/imgui-src/backends/imgui_impl_glfw.cpp.obj -c /home/dulu/opengl_ex/build/_deps/imgui-src/backends/imgui_impl_glfw.cpp",
+  "file": "/home/dulu/opengl_ex/build/_deps/imgui-src/backends/imgui_impl_glfw.cpp"
+},
+{
+  "directory": "/home/dulu/opengl_ex/build",
+  "command": "/usr/bin/x86_64-w64-mingw32-g++ -DSPDLOG_COMPILED_LIB -I/home/dulu/opengl_ex/build/_deps/spdlog-src/include -O3 -DNDEBUG -std=c++11 -o _deps/spdlog-build/CMakeFiles/spdlog.dir/src/spdlog.cpp.obj -c /home/dulu/opengl_ex/build/_deps/spdlog-src/src/spdlog.cpp",
+  "file": "/home/dulu/opengl_ex/build/_deps/spdlog-src/src/spdlog.cpp"
+},
+{
+  "directory": "/home/dulu/opengl_ex/build",
+  "command": "/usr/bin/x86_64-w64-mingw32-g++ -DSPDLOG_COMPILED_LIB -I/home/dulu/opengl_ex/build/_deps/spdlog-src/include -O3 -DNDEBUG -std=c++11 -o _deps/spdlog-build/CMakeFiles/spdlog.dir/src/stdout_sinks.cpp.obj -c /home/dulu/opengl_ex/build/_deps/spdlog-src/src/stdout_sinks.cpp",
+  "file": "/home/dulu/opengl_ex/build/_deps/spdlog-src/src/stdout_sinks.cpp"
+},
+{
+  "directory": "/home/dulu/opengl_ex/build",
+  "command": "/usr/bin/x86_64-w64-mingw32-g++ -DSPDLOG_COMPILED_LIB -I/home/dulu/opengl_ex/build/_deps/spdlog-src/include -O3 -DNDEBUG -std=c++11 -o _deps/spdlog-build/CMakeFiles/spdlog.dir/src/color_sinks.cpp.obj -c /home/dulu/opengl_ex/build/_deps/spdlog-src/src/color_sinks.cpp",
+  "file": "/home/dulu/opengl_ex/build/_deps/spdlog-src/src/color_sinks.cpp"
+},
+{
+  "directory": "/home/dulu/opengl_ex/build",
+  "command": "/usr/bin/x86_64-w64-mingw32-g++ -DSPDLOG_COMPILED_LIB -I/home/dulu/opengl_ex/build/_deps/spdlog-src/include -O3 -DNDEBUG -std=c++11 -o _deps/spdlog-build/CMakeFiles/spdlog.dir/src/file_sinks.cpp.obj -c /home/dulu/opengl_ex/build/_deps/spdlog-src/src/file_sinks.cpp",
+  "file": "/home/dulu/opengl_ex/build/_deps/spdlog-src/src/file_sinks.cpp"
+},
+{
+  "directory": "/home/dulu/opengl_ex/build",
+  "command": "/usr/bin/x86_64-w64-mingw32-g++ -DSPDLOG_COMPILED_LIB -I/home/dulu/opengl_ex/build/_deps/spdlog-src/include -O3 -DNDEBUG -std=c++11 -o _deps/spdlog-build/CMakeFiles/spdlog.dir/src/async.cpp.obj -c /home/dulu/opengl_ex/build/_deps/spdlog-src/src/async.cpp",
+  "file": "/home/dulu/opengl_ex/build/_deps/spdlog-src/src/async.cpp"
+},
+{
+  "directory": "/home/dulu/opengl_ex/build",
+  "command": "/usr/bin/x86_64-w64-mingw32-g++ -DSPDLOG_COMPILED_LIB -I/home/dulu/opengl_ex/build/_deps/spdlog-src/include -O3 -DNDEBUG -std=c++11 -o _deps/spdlog-build/CMakeFiles/spdlog.dir/src/cfg.cpp.obj -c /home/dulu/opengl_ex/build/_deps/spdlog-src/src/cfg.cpp",
+  "file": "/home/dulu/opengl_ex/build/_deps/spdlog-src/src/cfg.cpp"
+},
+{
+  "directory": "/home/dulu/opengl_ex/build",
+  "command": "/usr/bin/x86_64-w64-mingw32-g++ -DSPDLOG_COMPILED_LIB -I/home/dulu/opengl_ex/build/_deps/spdlog-src/include -O3 -DNDEBUG -std=c++11 -o _deps/spdlog-build/CMakeFiles/spdlog.dir/src/bundled_fmtlib_format.cpp.obj -c /home/dulu/opengl_ex/build/_deps/spdlog-src/src/bundled_fmtlib_format.cpp",
+  "file": "/home/dulu/opengl_ex/build/_deps/spdlog-src/src/bundled_fmtlib_format.cpp"
+},
+{
+  "directory": "/home/dulu/opengl_ex/build",
+  "command": "/usr/bin/x86_64-w64-mingw32-gcc -DUNICODE -DWINVER=0x0501 -D_GLFW_USE_CONFIG_H -D_UNICODE -I/home/dulu/opengl_ex/build/_deps/glfw-src/include -I/home/dulu/opengl_ex/build/_deps/glfw-src/src -I/home/dulu/opengl_ex/build/_deps/glfw-build/src -O3 -DNDEBUG -Wall -std=gnu99 -Wdeclaration-after-statement -o _deps/glfw-build/src/CMakeFiles/glfw.dir/context.c.obj -c /home/dulu/opengl_ex/build/_deps/glfw-src/src/context.c",
+  "file": "/home/dulu/opengl_ex/build/_deps/glfw-src/src/context.c"
+},
+{
+  "directory": "/home/dulu/opengl_ex/build",
+  "command": "/usr/bin/x86_64-w64-mingw32-gcc -DUNICODE -DWINVER=0x0501 -D_GLFW_USE_CONFIG_H -D_UNICODE -I/home/dulu/opengl_ex/build/_deps/glfw-src/include -I/home/dulu/opengl_ex/build/_deps/glfw-src/src -I/home/dulu/opengl_ex/build/_deps/glfw-build/src -O3 -DNDEBUG -Wall -std=gnu99 -Wdeclaration-after-statement -o _deps/glfw-build/src/CMakeFiles/glfw.dir/init.c.obj -c /home/dulu/opengl_ex/build/_deps/glfw-src/src/init.c",
+  "file": "/home/dulu/opengl_ex/build/_deps/glfw-src/src/init.c"
+},
+{
+  "directory": "/home/dulu/opengl_ex/build",
+  "command": "/usr/bin/x86_64-w64-mingw32-gcc -DUNICODE -DWINVER=0x0501 -D_GLFW_USE_CONFIG_H -D_UNICODE -I/home/dulu/opengl_ex/build/_deps/glfw-src/include -I/home/dulu/opengl_ex/build/_deps/glfw-src/src -I/home/dulu/opengl_ex/build/_deps/glfw-build/src -O3 -DNDEBUG -Wall -std=gnu99 -Wdeclaration-after-statement -o _deps/glfw-build/src/CMakeFiles/glfw.dir/input.c.obj -c /home/dulu/opengl_ex/build/_deps/glfw-src/src/input.c",
+  "file": "/home/dulu/opengl_ex/build/_deps/glfw-src/src/input.c"
+},
+{
+  "directory": "/home/dulu/opengl_ex/build",
+  "command": "/usr/bin/x86_64-w64-mingw32-gcc -DUNICODE -DWINVER=0x0501 -D_GLFW_USE_CONFIG_H -D_UNICODE -I/home/dulu/opengl_ex/build/_deps/glfw-src/include -I/home/dulu/opengl_ex/build/_deps/glfw-src/src -I/home/dulu/opengl_ex/build/_deps/glfw-build/src -O3 -DNDEBUG -Wall -std=gnu99 -Wdeclaration-after-statement -o _deps/glfw-build/src/CMakeFiles/glfw.dir/monitor.c.obj -c /home/dulu/opengl_ex/build/_deps/glfw-src/src/monitor.c",
+  "file": "/home/dulu/opengl_ex/build/_deps/glfw-src/src/monitor.c"
+},
+{
+  "directory": "/home/dulu/opengl_ex/build",
+  "command": "/usr/bin/x86_64-w64-mingw32-gcc -DUNICODE -DWINVER=0x0501 -D_GLFW_USE_CONFIG_H -D_UNICODE -I/home/dulu/opengl_ex/build/_deps/glfw-src/include -I/home/dulu/opengl_ex/build/_deps/glfw-src/src -I/home/dulu/opengl_ex/build/_deps/glfw-build/src -O3 -DNDEBUG -Wall -std=gnu99 -Wdeclaration-after-statement -o _deps/glfw-build/src/CMakeFiles/glfw.dir/vulkan.c.obj -c /home/dulu/opengl_ex/build/_deps/glfw-src/src/vulkan.c",
+  "file": "/home/dulu/opengl_ex/build/_deps/glfw-src/src/vulkan.c"
+},
+{
+  "directory": "/home/dulu/opengl_ex/build",
+  "command": "/usr/bin/x86_64-w64-mingw32-gcc -DUNICODE -DWINVER=0x0501 -D_GLFW_USE_CONFIG_H -D_UNICODE -I/home/dulu/opengl_ex/build/_deps/glfw-src/include -I/home/dulu/opengl_ex/build/_deps/glfw-src/src -I/home/dulu/opengl_ex/build/_deps/glfw-build/src -O3 -DNDEBUG -Wall -std=gnu99 -Wdeclaration-after-statement -o _deps/glfw-build/src/CMakeFiles/glfw.dir/window.c.obj -c /home/dulu/opengl_ex/build/_deps/glfw-src/src/window.c",
+  "file": "/home/dulu/opengl_ex/build/_deps/glfw-src/src/window.c"
+},
+{
+  "directory": "/home/dulu/opengl_ex/build",
+  "command": "/usr/bin/x86_64-w64-mingw32-gcc -DUNICODE -DWINVER=0x0501 -D_GLFW_USE_CONFIG_H -D_UNICODE -I/home/dulu/opengl_ex/build/_deps/glfw-src/include -I/home/dulu/opengl_ex/build/_deps/glfw-src/src -I/home/dulu/opengl_ex/build/_deps/glfw-build/src -O3 -DNDEBUG -Wall -std=gnu99 -Wdeclaration-after-statement -o _deps/glfw-build/src/CMakeFiles/glfw.dir/win32_init.c.obj -c /home/dulu/opengl_ex/build/_deps/glfw-src/src/win32_init.c",
+  "file": "/home/dulu/opengl_ex/build/_deps/glfw-src/src/win32_init.c"
+},
+{
+  "directory": "/home/dulu/opengl_ex/build",
+  "command": "/usr/bin/x86_64-w64-mingw32-gcc -DUNICODE -DWINVER=0x0501 -D_GLFW_USE_CONFIG_H -D_UNICODE -I/home/dulu/opengl_ex/build/_deps/glfw-src/include -I/home/dulu/opengl_ex/build/_deps/glfw-src/src -I/home/dulu/opengl_ex/build/_deps/glfw-build/src -O3 -DNDEBUG -Wall -std=gnu99 -Wdeclaration-after-statement -o _deps/glfw-build/src/CMakeFiles/glfw.dir/win32_joystick.c.obj -c /home/dulu/opengl_ex/build/_deps/glfw-src/src/win32_joystick.c",
+  "file": "/home/dulu/opengl_ex/build/_deps/glfw-src/src/win32_joystick.c"
+},
+{
+  "directory": "/home/dulu/opengl_ex/build",
+  "command": "/usr/bin/x86_64-w64-mingw32-gcc -DUNICODE -DWINVER=0x0501 -D_GLFW_USE_CONFIG_H -D_UNICODE -I/home/dulu/opengl_ex/build/_deps/glfw-src/include -I/home/dulu/opengl_ex/build/_deps/glfw-src/src -I/home/dulu/opengl_ex/build/_deps/glfw-build/src -O3 -DNDEBUG -Wall -std=gnu99 -Wdeclaration-after-statement -o _deps/glfw-build/src/CMakeFiles/glfw.dir/win32_monitor.c.obj -c /home/dulu/opengl_ex/build/_deps/glfw-src/src/win32_monitor.c",
+  "file": "/home/dulu/opengl_ex/build/_deps/glfw-src/src/win32_monitor.c"
+},
+{
+  "directory": "/home/dulu/opengl_ex/build",
+  "command": "/usr/bin/x86_64-w64-mingw32-gcc -DUNICODE -DWINVER=0x0501 -D_GLFW_USE_CONFIG_H -D_UNICODE -I/home/dulu/opengl_ex/build/_deps/glfw-src/include -I/home/dulu/opengl_ex/build/_deps/glfw-src/src -I/home/dulu/opengl_ex/build/_deps/glfw-build/src -O3 -DNDEBUG -Wall -std=gnu99 -Wdeclaration-after-statement -o _deps/glfw-build/src/CMakeFiles/glfw.dir/win32_time.c.obj -c /home/dulu/opengl_ex/build/_deps/glfw-src/src/win32_time.c",
+  "file": "/home/dulu/opengl_ex/build/_deps/glfw-src/src/win32_time.c"
+},
+{
+  "directory": "/home/dulu/opengl_ex/build",
+  "command": "/usr/bin/x86_64-w64-mingw32-gcc -DUNICODE -DWINVER=0x0501 -D_GLFW_USE_CONFIG_H -D_UNICODE -I/home/dulu/opengl_ex/build/_deps/glfw-src/include -I/home/dulu/opengl_ex/build/_deps/glfw-src/src -I/home/dulu/opengl_ex/build/_deps/glfw-build/src -O3 -DNDEBUG -Wall -std=gnu99 -Wdeclaration-after-statement -o _deps/glfw-build/src/CMakeFiles/glfw.dir/win32_thread.c.obj -c /home/dulu/opengl_ex/build/_deps/glfw-src/src/win32_thread.c",
+  "file": "/home/dulu/opengl_ex/build/_deps/glfw-src/src/win32_thread.c"
+},
+{
+  "directory": "/home/dulu/opengl_ex/build",
+  "command": "/usr/bin/x86_64-w64-mingw32-gcc -DUNICODE -DWINVER=0x0501 -D_GLFW_USE_CONFIG_H -D_UNICODE -I/home/dulu/opengl_ex/build/_deps/glfw-src/include -I/home/dulu/opengl_ex/build/_deps/glfw-src/src -I/home/dulu/opengl_ex/build/_deps/glfw-build/src -O3 -DNDEBUG -Wall -std=gnu99 -Wdeclaration-after-statement -o _deps/glfw-build/src/CMakeFiles/glfw.dir/win32_window.c.obj -c /home/dulu/opengl_ex/build/_deps/glfw-src/src/win32_window.c",
+  "file": "/home/dulu/opengl_ex/build/_deps/glfw-src/src/win32_window.c"
+},
+{
+  "directory": "/home/dulu/opengl_ex/build",
+  "command": "/usr/bin/x86_64-w64-mingw32-gcc -DUNICODE -DWINVER=0x0501 -D_GLFW_USE_CONFIG_H -D_UNICODE -I/home/dulu/opengl_ex/build/_deps/glfw-src/include -I/home/dulu/opengl_ex/build/_deps/glfw-src/src -I/home/dulu/opengl_ex/build/_deps/glfw-build/src -O3 -DNDEBUG -Wall -std=gnu99 -Wdeclaration-after-statement -o _deps/glfw-build/src/CMakeFiles/glfw.dir/wgl_context.c.obj -c /home/dulu/opengl_ex/build/_deps/glfw-src/src/wgl_context.c",
+  "file": "/home/dulu/opengl_ex/build/_deps/glfw-src/src/wgl_context.c"
+},
+{
+  "directory": "/home/dulu/opengl_ex/build",
+  "command": "/usr/bin/x86_64-w64-mingw32-gcc -DUNICODE -DWINVER=0x0501 -D_GLFW_USE_CONFIG_H -D_UNICODE -I/home/dulu/opengl_ex/build/_deps/glfw-src/include -I/home/dulu/opengl_ex/build/_deps/glfw-src/src -I/home/dulu/opengl_ex/build/_deps/glfw-build/src -O3 -DNDEBUG -Wall -std=gnu99 -Wdeclaration-after-statement -o _deps/glfw-build/src/CMakeFiles/glfw.dir/egl_context.c.obj -c /home/dulu/opengl_ex/build/_deps/glfw-src/src/egl_context.c",
+  "file": "/home/dulu/opengl_ex/build/_deps/glfw-src/src/egl_context.c"
+},
+{
+  "directory": "/home/dulu/opengl_ex/build",
+  "command": "/usr/bin/x86_64-w64-mingw32-gcc -DUNICODE -DWINVER=0x0501 -D_GLFW_USE_CONFIG_H -D_UNICODE -I/home/dulu/opengl_ex/build/_deps/glfw-src/include -I/home/dulu/opengl_ex/build/_deps/glfw-src/src -I/home/dulu/opengl_ex/build/_deps/glfw-build/src -O3 -DNDEBUG -Wall -std=gnu99 -Wdeclaration-after-statement -o _deps/glfw-build/src/CMakeFiles/glfw.dir/osmesa_context.c.obj -c /home/dulu/opengl_ex/build/_deps/glfw-src/src/osmesa_context.c",
+  "file": "/home/dulu/opengl_ex/build/_deps/glfw-src/src/osmesa_context.c"
+},
+{
+  "directory": "/home/dulu/opengl_ex/build",
+  "command": "/usr/bin/x86_64-w64-mingw32-gcc -I/home/dulu/opengl_ex/build/_deps/glfw-src/deps -I/home/dulu/opengl_ex/build/_deps/glfw-src/include -O3 -DNDEBUG -std=gnu99 -o _deps/glfw-build/examples/CMakeFiles/boing.dir/boing.c.obj -c /home/dulu/opengl_ex/build/_deps/glfw-src/examples/boing.c",
+  "file": "/home/dulu/opengl_ex/build/_deps/glfw-src/examples/boing.c"
+},
+{
+  "directory": "/home/dulu/opengl_ex/build",
+  "command": "/usr/bin/x86_64-w64-mingw32-windres -O coff -I /home/dulu/opengl_ex/build/_deps/glfw-src/deps -I /home/dulu/opengl_ex/build/_deps/glfw-src/include /home/dulu/opengl_ex/build/_deps/glfw-src/examples/glfw.rc _deps/glfw-build/examples/CMakeFiles/boing.dir/glfw.rc.res",
+  "file": "/home/dulu/opengl_ex/build/_deps/glfw-src/examples/glfw.rc"
+},
+{
+  "directory": "/home/dulu/opengl_ex/build",
+  "command": "/usr/bin/x86_64-w64-mingw32-gcc -I/home/dulu/opengl_ex/build/_deps/glfw-src/deps -I/home/dulu/opengl_ex/build/_deps/glfw-src/include -O3 -DNDEBUG -std=gnu99 -o _deps/glfw-build/examples/CMakeFiles/boing.dir/__/deps/glad_gl.c.obj -c /home/dulu/opengl_ex/build/_deps/glfw-src/deps/glad_gl.c",
+  "file": "/home/dulu/opengl_ex/build/_deps/glfw-src/deps/glad_gl.c"
+},
+{
+  "directory": "/home/dulu/opengl_ex/build",
+  "command": "/usr/bin/x86_64-w64-mingw32-gcc -I/home/dulu/opengl_ex/build/_deps/glfw-src/deps -I/home/dulu/opengl_ex/build/_deps/glfw-src/include -O3 -DNDEBUG -std=gnu99 -o _deps/glfw-build/examples/CMakeFiles/gears.dir/gears.c.obj -c /home/dulu/opengl_ex/build/_deps/glfw-src/examples/gears.c",
+  "file": "/home/dulu/opengl_ex/build/_deps/glfw-src/examples/gears.c"
+},
+{
+  "directory": "/home/dulu/opengl_ex/build",
+  "command": "/usr/bin/x86_64-w64-mingw32-windres -O coff -I /home/dulu/opengl_ex/build/_deps/glfw-src/deps -I /home/dulu/opengl_ex/build/_deps/glfw-src/include /home/dulu/opengl_ex/build/_deps/glfw-src/examples/glfw.rc _deps/glfw-build/examples/CMakeFiles/gears.dir/glfw.rc.res",
+  "file": "/home/dulu/opengl_ex/build/_deps/glfw-src/examples/glfw.rc"
+},
+{
+  "directory": "/home/dulu/opengl_ex/build",
+  "command": "/usr/bin/x86_64-w64-mingw32-gcc -I/home/dulu/opengl_ex/build/_deps/glfw-src/deps -I/home/dulu/opengl_ex/build/_deps/glfw-src/include -O3 -DNDEBUG -std=gnu99 -o _deps/glfw-build/examples/CMakeFiles/gears.dir/__/deps/glad_gl.c.obj -c /home/dulu/opengl_ex/build/_deps/glfw-src/deps/glad_gl.c",
+  "file": "/home/dulu/opengl_ex/build/_deps/glfw-src/deps/glad_gl.c"
+},
+{
+  "directory": "/home/dulu/opengl_ex/build",
+  "command": "/usr/bin/x86_64-w64-mingw32-gcc -I/home/dulu/opengl_ex/build/_deps/glfw-src/deps -I/home/dulu/opengl_ex/build/_deps/glfw-src/include -O3 -DNDEBUG -std=gnu99 -o _deps/glfw-build/examples/CMakeFiles/heightmap.dir/heightmap.c.obj -c /home/dulu/opengl_ex/build/_deps/glfw-src/examples/heightmap.c",
+  "file": "/home/dulu/opengl_ex/build/_deps/glfw-src/examples/heightmap.c"
+},
+{
+  "directory": "/home/dulu/opengl_ex/build",
+  "command": "/usr/bin/x86_64-w64-mingw32-windres -O coff -I /home/dulu/opengl_ex/build/_deps/glfw-src/deps -I /home/dulu/opengl_ex/build/_deps/glfw-src/include /home/dulu/opengl_ex/build/_deps/glfw-src/examples/glfw.rc _deps/glfw-build/examples/CMakeFiles/heightmap.dir/glfw.rc.res",
+  "file": "/home/dulu/opengl_ex/build/_deps/glfw-src/examples/glfw.rc"
+},
+{
+  "directory": "/home/dulu/opengl_ex/build",
+  "command": "/usr/bin/x86_64-w64-mingw32-gcc -I/home/dulu/opengl_ex/build/_deps/glfw-src/deps -I/home/dulu/opengl_ex/build/_deps/glfw-src/include -O3 -DNDEBUG -std=gnu99 -o _deps/glfw-build/examples/CMakeFiles/heightmap.dir/__/deps/glad_gl.c.obj -c /home/dulu/opengl_ex/build/_deps/glfw-src/deps/glad_gl.c",
+  "file": "/home/dulu/opengl_ex/build/_deps/glfw-src/deps/glad_gl.c"
+},
+{
+  "directory": "/home/dulu/opengl_ex/build",
+  "command": "/usr/bin/x86_64-w64-mingw32-gcc -I/home/dulu/opengl_ex/build/_deps/glfw-src/deps -I/home/dulu/opengl_ex/build/_deps/glfw-src/include -O3 -DNDEBUG -std=gnu99 -o _deps/glfw-build/examples/CMakeFiles/offscreen.dir/offscreen.c.obj -c /home/dulu/opengl_ex/build/_deps/glfw-src/examples/offscreen.c",
+  "file": "/home/dulu/opengl_ex/build/_deps/glfw-src/examples/offscreen.c"
+},
+{
+  "directory": "/home/dulu/opengl_ex/build",
+  "command": "/usr/bin/x86_64-w64-mingw32-windres -O coff -I /home/dulu/opengl_ex/build/_deps/glfw-src/deps -I /home/dulu/opengl_ex/build/_deps/glfw-src/include /home/dulu/opengl_ex/build/_deps/glfw-src/examples/glfw.rc _deps/glfw-build/examples/CMakeFiles/offscreen.dir/glfw.rc.res",
+  "file": "/home/dulu/opengl_ex/build/_deps/glfw-src/examples/glfw.rc"
+},
+{
+  "directory": "/home/dulu/opengl_ex/build",
+  "command": "/usr/bin/x86_64-w64-mingw32-gcc -I/home/dulu/opengl_ex/build/_deps/glfw-src/deps -I/home/dulu/opengl_ex/build/_deps/glfw-src/include -O3 -DNDEBUG -std=gnu99 -o _deps/glfw-build/examples/CMakeFiles/offscreen.dir/__/deps/glad_gl.c.obj -c /home/dulu/opengl_ex/build/_deps/glfw-src/deps/glad_gl.c",
+  "file": "/home/dulu/opengl_ex/build/_deps/glfw-src/deps/glad_gl.c"
+},
+{
+  "directory": "/home/dulu/opengl_ex/build",
+  "command": "/usr/bin/x86_64-w64-mingw32-gcc -I/home/dulu/opengl_ex/build/_deps/glfw-src/deps -I/home/dulu/opengl_ex/build/_deps/glfw-src/include -O3 -DNDEBUG -std=gnu99 -o _deps/glfw-build/examples/CMakeFiles/particles.dir/particles.c.obj -c /home/dulu/opengl_ex/build/_deps/glfw-src/examples/particles.c",
+  "file": "/home/dulu/opengl_ex/build/_deps/glfw-src/examples/particles.c"
+},
+{
+  "directory": "/home/dulu/opengl_ex/build",
+  "command": "/usr/bin/x86_64-w64-mingw32-windres -O coff -I /home/dulu/opengl_ex/build/_deps/glfw-src/deps -I /home/dulu/opengl_ex/build/_deps/glfw-src/include /home/dulu/opengl_ex/build/_deps/glfw-src/examples/glfw.rc _deps/glfw-build/examples/CMakeFiles/particles.dir/glfw.rc.res",
+  "file": "/home/dulu/opengl_ex/build/_deps/glfw-src/examples/glfw.rc"
+},
+{
+  "directory": "/home/dulu/opengl_ex/build",
+  "command": "/usr/bin/x86_64-w64-mingw32-gcc -I/home/dulu/opengl_ex/build/_deps/glfw-src/deps -I/home/dulu/opengl_ex/build/_deps/glfw-src/include -O3 -DNDEBUG -std=gnu99 -o _deps/glfw-build/examples/CMakeFiles/particles.dir/__/deps/tinycthread.c.obj -c /home/dulu/opengl_ex/build/_deps/glfw-src/deps/tinycthread.c",
+  "file": "/home/dulu/opengl_ex/build/_deps/glfw-src/deps/tinycthread.c"
+},
+{
+  "directory": "/home/dulu/opengl_ex/build",
+  "command": "/usr/bin/x86_64-w64-mingw32-gcc -I/home/dulu/opengl_ex/build/_deps/glfw-src/deps -I/home/dulu/opengl_ex/build/_deps/glfw-src/include -O3 -DNDEBUG -std=gnu99 -o _deps/glfw-build/examples/CMakeFiles/particles.dir/__/deps/getopt.c.obj -c /home/dulu/opengl_ex/build/_deps/glfw-src/deps/getopt.c",
+  "file": "/home/dulu/opengl_ex/build/_deps/glfw-src/deps/getopt.c"
+},
+{
+  "directory": "/home/dulu/opengl_ex/build",
+  "command": "/usr/bin/x86_64-w64-mingw32-gcc -I/home/dulu/opengl_ex/build/_deps/glfw-src/deps -I/home/dulu/opengl_ex/build/_deps/glfw-src/include -O3 -DNDEBUG -std=gnu99 -o _deps/glfw-build/examples/CMakeFiles/particles.dir/__/deps/glad_gl.c.obj -c /home/dulu/opengl_ex/build/_deps/glfw-src/deps/glad_gl.c",
+  "file": "/home/dulu/opengl_ex/build/_deps/glfw-src/deps/glad_gl.c"
+},
+{
+  "directory": "/home/dulu/opengl_ex/build",
+  "command": "/usr/bin/x86_64-w64-mingw32-gcc -I/home/dulu/opengl_ex/build/_deps/glfw-src/deps -I/home/dulu/opengl_ex/build/_deps/glfw-src/include -O3 -DNDEBUG -std=gnu99 -o _deps/glfw-build/examples/CMakeFiles/sharing.dir/sharing.c.obj -c /home/dulu/opengl_ex/build/_deps/glfw-src/examples/sharing.c",
+  "file": "/home/dulu/opengl_ex/build/_deps/glfw-src/examples/sharing.c"
+},
+{
+  "directory": "/home/dulu/opengl_ex/build",
+  "command": "/usr/bin/x86_64-w64-mingw32-windres -O coff -I /home/dulu/opengl_ex/build/_deps/glfw-src/deps -I /home/dulu/opengl_ex/build/_deps/glfw-src/include /home/dulu/opengl_ex/build/_deps/glfw-src/examples/glfw.rc _deps/glfw-build/examples/CMakeFiles/sharing.dir/glfw.rc.res",
+  "file": "/home/dulu/opengl_ex/build/_deps/glfw-src/examples/glfw.rc"
+},
+{
+  "directory": "/home/dulu/opengl_ex/build",
+  "command": "/usr/bin/x86_64-w64-mingw32-gcc -I/home/dulu/opengl_ex/build/_deps/glfw-src/deps -I/home/dulu/opengl_ex/build/_deps/glfw-src/include -O3 -DNDEBUG -std=gnu99 -o _deps/glfw-build/examples/CMakeFiles/sharing.dir/__/deps/glad_gl.c.obj -c /home/dulu/opengl_ex/build/_deps/glfw-src/deps/glad_gl.c",
+  "file": "/home/dulu/opengl_ex/build/_deps/glfw-src/deps/glad_gl.c"
+},
+{
+  "directory": "/home/dulu/opengl_ex/build",
+  "command": "/usr/bin/x86_64-w64-mingw32-gcc -I/home/dulu/opengl_ex/build/_deps/glfw-src/deps -I/home/dulu/opengl_ex/build/_deps/glfw-src/include -O3 -DNDEBUG -std=gnu99 -o _deps/glfw-build/examples/CMakeFiles/simple.dir/simple.c.obj -c /home/dulu/opengl_ex/build/_deps/glfw-src/examples/simple.c",
+  "file": "/home/dulu/opengl_ex/build/_deps/glfw-src/examples/simple.c"
+},
+{
+  "directory": "/home/dulu/opengl_ex/build",
+  "command": "/usr/bin/x86_64-w64-mingw32-windres -O coff -I /home/dulu/opengl_ex/build/_deps/glfw-src/deps -I /home/dulu/opengl_ex/build/_deps/glfw-src/include /home/dulu/opengl_ex/build/_deps/glfw-src/examples/glfw.rc _deps/glfw-build/examples/CMakeFiles/simple.dir/glfw.rc.res",
+  "file": "/home/dulu/opengl_ex/build/_deps/glfw-src/examples/glfw.rc"
+},
+{
+  "directory": "/home/dulu/opengl_ex/build",
+  "command": "/usr/bin/x86_64-w64-mingw32-gcc -I/home/dulu/opengl_ex/build/_deps/glfw-src/deps -I/home/dulu/opengl_ex/build/_deps/glfw-src/include -O3 -DNDEBUG -std=gnu99 -o _deps/glfw-build/examples/CMakeFiles/simple.dir/__/deps/glad_gl.c.obj -c /home/dulu/opengl_ex/build/_deps/glfw-src/deps/glad_gl.c",
+  "file": "/home/dulu/opengl_ex/build/_deps/glfw-src/deps/glad_gl.c"
+},
+{
+  "directory": "/home/dulu/opengl_ex/build",
+  "command": "/usr/bin/x86_64-w64-mingw32-gcc -I/home/dulu/opengl_ex/build/_deps/glfw-src/deps -I/home/dulu/opengl_ex/build/_deps/glfw-src/include -O3 -DNDEBUG -std=gnu99 -o _deps/glfw-build/examples/CMakeFiles/splitview.dir/splitview.c.obj -c /home/dulu/opengl_ex/build/_deps/glfw-src/examples/splitview.c",
+  "file": "/home/dulu/opengl_ex/build/_deps/glfw-src/examples/splitview.c"
+},
+{
+  "directory": "/home/dulu/opengl_ex/build",
+  "command": "/usr/bin/x86_64-w64-mingw32-windres -O coff -I /home/dulu/opengl_ex/build/_deps/glfw-src/deps -I /home/dulu/opengl_ex/build/_deps/glfw-src/include /home/dulu/opengl_ex/build/_deps/glfw-src/examples/glfw.rc _deps/glfw-build/examples/CMakeFiles/splitview.dir/glfw.rc.res",
+  "file": "/home/dulu/opengl_ex/build/_deps/glfw-src/examples/glfw.rc"
+},
+{
+  "directory": "/home/dulu/opengl_ex/build",
+  "command": "/usr/bin/x86_64-w64-mingw32-gcc -I/home/dulu/opengl_ex/build/_deps/glfw-src/deps -I/home/dulu/opengl_ex/build/_deps/glfw-src/include -O3 -DNDEBUG -std=gnu99 -o _deps/glfw-build/examples/CMakeFiles/splitview.dir/__/deps/glad_gl.c.obj -c /home/dulu/opengl_ex/build/_deps/glfw-src/deps/glad_gl.c",
+  "file": "/home/dulu/opengl_ex/build/_deps/glfw-src/deps/glad_gl.c"
+},
+{
+  "directory": "/home/dulu/opengl_ex/build",
+  "command": "/usr/bin/x86_64-w64-mingw32-gcc -I/home/dulu/opengl_ex/build/_deps/glfw-src/deps -I/home/dulu/opengl_ex/build/_deps/glfw-src/include -O3 -DNDEBUG -std=gnu99 -o _deps/glfw-build/examples/CMakeFiles/wave.dir/wave.c.obj -c /home/dulu/opengl_ex/build/_deps/glfw-src/examples/wave.c",
+  "file": "/home/dulu/opengl_ex/build/_deps/glfw-src/examples/wave.c"
+},
+{
+  "directory": "/home/dulu/opengl_ex/build",
+  "command": "/usr/bin/x86_64-w64-mingw32-windres -O coff -I /home/dulu/opengl_ex/build/_deps/glfw-src/deps -I /home/dulu/opengl_ex/build/_deps/glfw-src/include /home/dulu/opengl_ex/build/_deps/glfw-src/examples/glfw.rc _deps/glfw-build/examples/CMakeFiles/wave.dir/glfw.rc.res",
+  "file": "/home/dulu/opengl_ex/build/_deps/glfw-src/examples/glfw.rc"
+},
+{
+  "directory": "/home/dulu/opengl_ex/build",
+  "command": "/usr/bin/x86_64-w64-mingw32-gcc -I/home/dulu/opengl_ex/build/_deps/glfw-src/deps -I/home/dulu/opengl_ex/build/_deps/glfw-src/include -O3 -DNDEBUG -std=gnu99 -o _deps/glfw-build/examples/CMakeFiles/wave.dir/__/deps/glad_gl.c.obj -c /home/dulu/opengl_ex/build/_deps/glfw-src/deps/glad_gl.c",
+  "file": "/home/dulu/opengl_ex/build/_deps/glfw-src/deps/glad_gl.c"
+},
+{
+  "directory": "/home/dulu/opengl_ex/build",
+  "command": "/usr/bin/x86_64-w64-mingw32-gcc -I/home/dulu/opengl_ex/build/_deps/glfw-src/deps -I/home/dulu/opengl_ex/build/_deps/glfw-src/include -O3 -DNDEBUG -std=gnu99 -o _deps/glfw-build/tests/CMakeFiles/clipboard.dir/clipboard.c.obj -c /home/dulu/opengl_ex/build/_deps/glfw-src/tests/clipboard.c",
+  "file": "/home/dulu/opengl_ex/build/_deps/glfw-src/tests/clipboard.c"
+},
+{
+  "directory": "/home/dulu/opengl_ex/build",
+  "command": "/usr/bin/x86_64-w64-mingw32-gcc -I/home/dulu/opengl_ex/build/_deps/glfw-src/deps -I/home/dulu/opengl_ex/build/_deps/glfw-src/include -O3 -DNDEBUG -std=gnu99 -o _deps/glfw-build/tests/CMakeFiles/clipboard.dir/__/deps/getopt.c.obj -c /home/dulu/opengl_ex/build/_deps/glfw-src/deps/getopt.c",
+  "file": "/home/dulu/opengl_ex/build/_deps/glfw-src/deps/getopt.c"
+},
+{
+  "directory": "/home/dulu/opengl_ex/build",
+  "command": "/usr/bin/x86_64-w64-mingw32-gcc -I/home/dulu/opengl_ex/build/_deps/glfw-src/deps -I/home/dulu/opengl_ex/build/_deps/glfw-src/include -O3 -DNDEBUG -std=gnu99 -o _deps/glfw-build/tests/CMakeFiles/clipboard.dir/__/deps/glad_gl.c.obj -c /home/dulu/opengl_ex/build/_deps/glfw-src/deps/glad_gl.c",
+  "file": "/home/dulu/opengl_ex/build/_deps/glfw-src/deps/glad_gl.c"
+},
+{
+  "directory": "/home/dulu/opengl_ex/build",
+  "command": "/usr/bin/x86_64-w64-mingw32-gcc -I/home/dulu/opengl_ex/build/_deps/glfw-src/deps -I/home/dulu/opengl_ex/build/_deps/glfw-src/include -O3 -DNDEBUG -std=gnu99 -o _deps/glfw-build/tests/CMakeFiles/events.dir/events.c.obj -c /home/dulu/opengl_ex/build/_deps/glfw-src/tests/events.c",
+  "file": "/home/dulu/opengl_ex/build/_deps/glfw-src/tests/events.c"
+},
+{
+  "directory": "/home/dulu/opengl_ex/build",
+  "command": "/usr/bin/x86_64-w64-mingw32-gcc -I/home/dulu/opengl_ex/build/_deps/glfw-src/deps -I/home/dulu/opengl_ex/build/_deps/glfw-src/include -O3 -DNDEBUG -std=gnu99 -o _deps/glfw-build/tests/CMakeFiles/events.dir/__/deps/getopt.c.obj -c /home/dulu/opengl_ex/build/_deps/glfw-src/deps/getopt.c",
+  "file": "/home/dulu/opengl_ex/build/_deps/glfw-src/deps/getopt.c"
+},
+{
+  "directory": "/home/dulu/opengl_ex/build",
+  "command": "/usr/bin/x86_64-w64-mingw32-gcc -I/home/dulu/opengl_ex/build/_deps/glfw-src/deps -I/home/dulu/opengl_ex/build/_deps/glfw-src/include -O3 -DNDEBUG -std=gnu99 -o _deps/glfw-build/tests/CMakeFiles/events.dir/__/deps/glad_gl.c.obj -c /home/dulu/opengl_ex/build/_deps/glfw-src/deps/glad_gl.c",
+  "file": "/home/dulu/opengl_ex/build/_deps/glfw-src/deps/glad_gl.c"
+},
+{
+  "directory": "/home/dulu/opengl_ex/build",
+  "command": "/usr/bin/x86_64-w64-mingw32-gcc -I/home/dulu/opengl_ex/build/_deps/glfw-src/deps -I/home/dulu/opengl_ex/build/_deps/glfw-src/include -O3 -DNDEBUG -std=gnu99 -o _deps/glfw-build/tests/CMakeFiles/msaa.dir/msaa.c.obj -c /home/dulu/opengl_ex/build/_deps/glfw-src/tests/msaa.c",
+  "file": "/home/dulu/opengl_ex/build/_deps/glfw-src/tests/msaa.c"
+},
+{
+  "directory": "/home/dulu/opengl_ex/build",
+  "command": "/usr/bin/x86_64-w64-mingw32-gcc -I/home/dulu/opengl_ex/build/_deps/glfw-src/deps -I/home/dulu/opengl_ex/build/_deps/glfw-src/include -O3 -DNDEBUG -std=gnu99 -o _deps/glfw-build/tests/CMakeFiles/msaa.dir/__/deps/getopt.c.obj -c /home/dulu/opengl_ex/build/_deps/glfw-src/deps/getopt.c",
+  "file": "/home/dulu/opengl_ex/build/_deps/glfw-src/deps/getopt.c"
+},
+{
+  "directory": "/home/dulu/opengl_ex/build",
+  "command": "/usr/bin/x86_64-w64-mingw32-gcc -I/home/dulu/opengl_ex/build/_deps/glfw-src/deps -I/home/dulu/opengl_ex/build/_deps/glfw-src/include -O3 -DNDEBUG -std=gnu99 -o _deps/glfw-build/tests/CMakeFiles/msaa.dir/__/deps/glad_gl.c.obj -c /home/dulu/opengl_ex/build/_deps/glfw-src/deps/glad_gl.c",
+  "file": "/home/dulu/opengl_ex/build/_deps/glfw-src/deps/glad_gl.c"
+},
+{
+  "directory": "/home/dulu/opengl_ex/build",
+  "command": "/usr/bin/x86_64-w64-mingw32-gcc -I/home/dulu/opengl_ex/build/_deps/glfw-src/deps -I/home/dulu/opengl_ex/build/_deps/glfw-src/include -O3 -DNDEBUG -std=gnu99 -o _deps/glfw-build/tests/CMakeFiles/glfwinfo.dir/glfwinfo.c.obj -c /home/dulu/opengl_ex/build/_deps/glfw-src/tests/glfwinfo.c",
+  "file": "/home/dulu/opengl_ex/build/_deps/glfw-src/tests/glfwinfo.c"
+},
+{
+  "directory": "/home/dulu/opengl_ex/build",
+  "command": "/usr/bin/x86_64-w64-mingw32-gcc -I/home/dulu/opengl_ex/build/_deps/glfw-src/deps -I/home/dulu/opengl_ex/build/_deps/glfw-src/include -O3 -DNDEBUG -std=gnu99 -o _deps/glfw-build/tests/CMakeFiles/glfwinfo.dir/__/deps/getopt.c.obj -c /home/dulu/opengl_ex/build/_deps/glfw-src/deps/getopt.c",
+  "file": "/home/dulu/opengl_ex/build/_deps/glfw-src/deps/getopt.c"
+},
+{
+  "directory": "/home/dulu/opengl_ex/build",
+  "command": "/usr/bin/x86_64-w64-mingw32-gcc -I/home/dulu/opengl_ex/build/_deps/glfw-src/deps -I/home/dulu/opengl_ex/build/_deps/glfw-src/include -O3 -DNDEBUG -std=gnu99 -o _deps/glfw-build/tests/CMakeFiles/glfwinfo.dir/__/deps/glad_gl.c.obj -c /home/dulu/opengl_ex/build/_deps/glfw-src/deps/glad_gl.c",
+  "file": "/home/dulu/opengl_ex/build/_deps/glfw-src/deps/glad_gl.c"
+},
+{
+  "directory": "/home/dulu/opengl_ex/build",
+  "command": "/usr/bin/x86_64-w64-mingw32-gcc -I/home/dulu/opengl_ex/build/_deps/glfw-src/deps -I/home/dulu/opengl_ex/build/_deps/glfw-src/include -O3 -DNDEBUG -std=gnu99 -o _deps/glfw-build/tests/CMakeFiles/glfwinfo.dir/__/deps/glad_vulkan.c.obj -c /home/dulu/opengl_ex/build/_deps/glfw-src/deps/glad_vulkan.c",
+  "file": "/home/dulu/opengl_ex/build/_deps/glfw-src/deps/glad_vulkan.c"
+},
+{
+  "directory": "/home/dulu/opengl_ex/build",
+  "command": "/usr/bin/x86_64-w64-mingw32-gcc -I/home/dulu/opengl_ex/build/_deps/glfw-src/deps -I/home/dulu/opengl_ex/build/_deps/glfw-src/include -O3 -DNDEBUG -std=gnu99 -o _deps/glfw-build/tests/CMakeFiles/iconify.dir/iconify.c.obj -c /home/dulu/opengl_ex/build/_deps/glfw-src/tests/iconify.c",
+  "file": "/home/dulu/opengl_ex/build/_deps/glfw-src/tests/iconify.c"
+},
+{
+  "directory": "/home/dulu/opengl_ex/build",
+  "command": "/usr/bin/x86_64-w64-mingw32-gcc -I/home/dulu/opengl_ex/build/_deps/glfw-src/deps -I/home/dulu/opengl_ex/build/_deps/glfw-src/include -O3 -DNDEBUG -std=gnu99 -o _deps/glfw-build/tests/CMakeFiles/iconify.dir/__/deps/getopt.c.obj -c /home/dulu/opengl_ex/build/_deps/glfw-src/deps/getopt.c",
+  "file": "/home/dulu/opengl_ex/build/_deps/glfw-src/deps/getopt.c"
+},
+{
+  "directory": "/home/dulu/opengl_ex/build",
+  "command": "/usr/bin/x86_64-w64-mingw32-gcc -I/home/dulu/opengl_ex/build/_deps/glfw-src/deps -I/home/dulu/opengl_ex/build/_deps/glfw-src/include -O3 -DNDEBUG -std=gnu99 -o _deps/glfw-build/tests/CMakeFiles/iconify.dir/__/deps/glad_gl.c.obj -c /home/dulu/opengl_ex/build/_deps/glfw-src/deps/glad_gl.c",
+  "file": "/home/dulu/opengl_ex/build/_deps/glfw-src/deps/glad_gl.c"
+},
+{
+  "directory": "/home/dulu/opengl_ex/build",
+  "command": "/usr/bin/x86_64-w64-mingw32-gcc -I/home/dulu/opengl_ex/build/_deps/glfw-src/deps -I/home/dulu/opengl_ex/build/_deps/glfw-src/include -O3 -DNDEBUG -std=gnu99 -o _deps/glfw-build/tests/CMakeFiles/monitors.dir/monitors.c.obj -c /home/dulu/opengl_ex/build/_deps/glfw-src/tests/monitors.c",
+  "file": "/home/dulu/opengl_ex/build/_deps/glfw-src/tests/monitors.c"
+},
+{
+  "directory": "/home/dulu/opengl_ex/build",
+  "command": "/usr/bin/x86_64-w64-mingw32-gcc -I/home/dulu/opengl_ex/build/_deps/glfw-src/deps -I/home/dulu/opengl_ex/build/_deps/glfw-src/include -O3 -DNDEBUG -std=gnu99 -o _deps/glfw-build/tests/CMakeFiles/monitors.dir/__/deps/getopt.c.obj -c /home/dulu/opengl_ex/build/_deps/glfw-src/deps/getopt.c",
+  "file": "/home/dulu/opengl_ex/build/_deps/glfw-src/deps/getopt.c"
+},
+{
+  "directory": "/home/dulu/opengl_ex/build",
+  "command": "/usr/bin/x86_64-w64-mingw32-gcc -I/home/dulu/opengl_ex/build/_deps/glfw-src/deps -I/home/dulu/opengl_ex/build/_deps/glfw-src/include -O3 -DNDEBUG -std=gnu99 -o _deps/glfw-build/tests/CMakeFiles/monitors.dir/__/deps/glad_gl.c.obj -c /home/dulu/opengl_ex/build/_deps/glfw-src/deps/glad_gl.c",
+  "file": "/home/dulu/opengl_ex/build/_deps/glfw-src/deps/glad_gl.c"
+},
+{
+  "directory": "/home/dulu/opengl_ex/build",
+  "command": "/usr/bin/x86_64-w64-mingw32-gcc -I/home/dulu/opengl_ex/build/_deps/glfw-src/deps -I/home/dulu/opengl_ex/build/_deps/glfw-src/include -O3 -DNDEBUG -std=gnu99 -o _deps/glfw-build/tests/CMakeFiles/reopen.dir/reopen.c.obj -c /home/dulu/opengl_ex/build/_deps/glfw-src/tests/reopen.c",
+  "file": "/home/dulu/opengl_ex/build/_deps/glfw-src/tests/reopen.c"
+},
+{
+  "directory": "/home/dulu/opengl_ex/build",
+  "command": "/usr/bin/x86_64-w64-mingw32-gcc -I/home/dulu/opengl_ex/build/_deps/glfw-src/deps -I/home/dulu/opengl_ex/build/_deps/glfw-src/include -O3 -DNDEBUG -std=gnu99 -o _deps/glfw-build/tests/CMakeFiles/reopen.dir/__/deps/glad_gl.c.obj -c /home/dulu/opengl_ex/build/_deps/glfw-src/deps/glad_gl.c",
+  "file": "/home/dulu/opengl_ex/build/_deps/glfw-src/deps/glad_gl.c"
+},
+{
+  "directory": "/home/dulu/opengl_ex/build",
+  "command": "/usr/bin/x86_64-w64-mingw32-gcc -I/home/dulu/opengl_ex/build/_deps/glfw-src/deps -I/home/dulu/opengl_ex/build/_deps/glfw-src/include -O3 -DNDEBUG -std=gnu99 -o _deps/glfw-build/tests/CMakeFiles/cursor.dir/cursor.c.obj -c /home/dulu/opengl_ex/build/_deps/glfw-src/tests/cursor.c",
+  "file": "/home/dulu/opengl_ex/build/_deps/glfw-src/tests/cursor.c"
+},
+{
+  "directory": "/home/dulu/opengl_ex/build",
+  "command": "/usr/bin/x86_64-w64-mingw32-gcc -I/home/dulu/opengl_ex/build/_deps/glfw-src/deps -I/home/dulu/opengl_ex/build/_deps/glfw-src/include -O3 -DNDEBUG -std=gnu99 -o _deps/glfw-build/tests/CMakeFiles/cursor.dir/__/deps/glad_gl.c.obj -c /home/dulu/opengl_ex/build/_deps/glfw-src/deps/glad_gl.c",
+  "file": "/home/dulu/opengl_ex/build/_deps/glfw-src/deps/glad_gl.c"
+},
+{
+  "directory": "/home/dulu/opengl_ex/build",
+  "command": "/usr/bin/x86_64-w64-mingw32-gcc -I/home/dulu/opengl_ex/build/_deps/glfw-src/deps -I/home/dulu/opengl_ex/build/_deps/glfw-src/include -O3 -DNDEBUG -std=gnu99 -o _deps/glfw-build/tests/CMakeFiles/empty.dir/empty.c.obj -c /home/dulu/opengl_ex/build/_deps/glfw-src/tests/empty.c",
+  "file": "/home/dulu/opengl_ex/build/_deps/glfw-src/tests/empty.c"
+},
+{
+  "directory": "/home/dulu/opengl_ex/build",
+  "command": "/usr/bin/x86_64-w64-mingw32-gcc -I/home/dulu/opengl_ex/build/_deps/glfw-src/deps -I/home/dulu/opengl_ex/build/_deps/glfw-src/include -O3 -DNDEBUG -std=gnu99 -o _deps/glfw-build/tests/CMakeFiles/empty.dir/__/deps/tinycthread.c.obj -c /home/dulu/opengl_ex/build/_deps/glfw-src/deps/tinycthread.c",
+  "file": "/home/dulu/opengl_ex/build/_deps/glfw-src/deps/tinycthread.c"
+},
+{
+  "directory": "/home/dulu/opengl_ex/build",
+  "command": "/usr/bin/x86_64-w64-mingw32-gcc -I/home/dulu/opengl_ex/build/_deps/glfw-src/deps -I/home/dulu/opengl_ex/build/_deps/glfw-src/include -O3 -DNDEBUG -std=gnu99 -o _deps/glfw-build/tests/CMakeFiles/empty.dir/__/deps/glad_gl.c.obj -c /home/dulu/opengl_ex/build/_deps/glfw-src/deps/glad_gl.c",
+  "file": "/home/dulu/opengl_ex/build/_deps/glfw-src/deps/glad_gl.c"
+},
+{
+  "directory": "/home/dulu/opengl_ex/build",
+  "command": "/usr/bin/x86_64-w64-mingw32-gcc -I/home/dulu/opengl_ex/build/_deps/glfw-src/deps -I/home/dulu/opengl_ex/build/_deps/glfw-src/include -O3 -DNDEBUG -std=gnu99 -o _deps/glfw-build/tests/CMakeFiles/gamma.dir/gamma.c.obj -c /home/dulu/opengl_ex/build/_deps/glfw-src/tests/gamma.c",
+  "file": "/home/dulu/opengl_ex/build/_deps/glfw-src/tests/gamma.c"
+},
+{
+  "directory": "/home/dulu/opengl_ex/build",
+  "command": "/usr/bin/x86_64-w64-mingw32-gcc -I/home/dulu/opengl_ex/build/_deps/glfw-src/deps -I/home/dulu/opengl_ex/build/_deps/glfw-src/include -O3 -DNDEBUG -std=gnu99 -o _deps/glfw-build/tests/CMakeFiles/gamma.dir/__/deps/glad_gl.c.obj -c /home/dulu/opengl_ex/build/_deps/glfw-src/deps/glad_gl.c",
+  "file": "/home/dulu/opengl_ex/build/_deps/glfw-src/deps/glad_gl.c"
+},
+{
+  "directory": "/home/dulu/opengl_ex/build",
+  "command": "/usr/bin/x86_64-w64-mingw32-gcc -I/home/dulu/opengl_ex/build/_deps/glfw-src/deps -I/home/dulu/opengl_ex/build/_deps/glfw-src/include -O3 -DNDEBUG -std=gnu99 -o _deps/glfw-build/tests/CMakeFiles/icon.dir/icon.c.obj -c /home/dulu/opengl_ex/build/_deps/glfw-src/tests/icon.c",
+  "file": "/home/dulu/opengl_ex/build/_deps/glfw-src/tests/icon.c"
+},
+{
+  "directory": "/home/dulu/opengl_ex/build",
+  "command": "/usr/bin/x86_64-w64-mingw32-gcc -I/home/dulu/opengl_ex/build/_deps/glfw-src/deps -I/home/dulu/opengl_ex/build/_deps/glfw-src/include -O3 -DNDEBUG -std=gnu99 -o _deps/glfw-build/tests/CMakeFiles/icon.dir/__/deps/glad_gl.c.obj -c /home/dulu/opengl_ex/build/_deps/glfw-src/deps/glad_gl.c",
+  "file": "/home/dulu/opengl_ex/build/_deps/glfw-src/deps/glad_gl.c"
+},
+{
+  "directory": "/home/dulu/opengl_ex/build",
+  "command": "/usr/bin/x86_64-w64-mingw32-gcc -I/home/dulu/opengl_ex/build/_deps/glfw-src/deps -I/home/dulu/opengl_ex/build/_deps/glfw-src/include -O3 -DNDEBUG -std=gnu99 -o _deps/glfw-build/tests/CMakeFiles/inputlag.dir/inputlag.c.obj -c /home/dulu/opengl_ex/build/_deps/glfw-src/tests/inputlag.c",
+  "file": "/home/dulu/opengl_ex/build/_deps/glfw-src/tests/inputlag.c"
+},
+{
+  "directory": "/home/dulu/opengl_ex/build",
+  "command": "/usr/bin/x86_64-w64-mingw32-gcc -I/home/dulu/opengl_ex/build/_deps/glfw-src/deps -I/home/dulu/opengl_ex/build/_deps/glfw-src/include -O3 -DNDEBUG -std=gnu99 -o _deps/glfw-build/tests/CMakeFiles/inputlag.dir/__/deps/getopt.c.obj -c /home/dulu/opengl_ex/build/_deps/glfw-src/deps/getopt.c",
+  "file": "/home/dulu/opengl_ex/build/_deps/glfw-src/deps/getopt.c"
+},
+{
+  "directory": "/home/dulu/opengl_ex/build",
+  "command": "/usr/bin/x86_64-w64-mingw32-gcc -I/home/dulu/opengl_ex/build/_deps/glfw-src/deps -I/home/dulu/opengl_ex/build/_deps/glfw-src/include -O3 -DNDEBUG -std=gnu99 -o _deps/glfw-build/tests/CMakeFiles/inputlag.dir/__/deps/glad_gl.c.obj -c /home/dulu/opengl_ex/build/_deps/glfw-src/deps/glad_gl.c",
+  "file": "/home/dulu/opengl_ex/build/_deps/glfw-src/deps/glad_gl.c"
+},
+{
+  "directory": "/home/dulu/opengl_ex/build",
+  "command": "/usr/bin/x86_64-w64-mingw32-gcc -I/home/dulu/opengl_ex/build/_deps/glfw-src/deps -I/home/dulu/opengl_ex/build/_deps/glfw-src/include -O3 -DNDEBUG -std=gnu99 -o _deps/glfw-build/tests/CMakeFiles/joysticks.dir/joysticks.c.obj -c /home/dulu/opengl_ex/build/_deps/glfw-src/tests/joysticks.c",
+  "file": "/home/dulu/opengl_ex/build/_deps/glfw-src/tests/joysticks.c"
+},
+{
+  "directory": "/home/dulu/opengl_ex/build",
+  "command": "/usr/bin/x86_64-w64-mingw32-gcc -I/home/dulu/opengl_ex/build/_deps/glfw-src/deps -I/home/dulu/opengl_ex/build/_deps/glfw-src/include -O3 -DNDEBUG -std=gnu99 -o _deps/glfw-build/tests/CMakeFiles/joysticks.dir/__/deps/glad_gl.c.obj -c /home/dulu/opengl_ex/build/_deps/glfw-src/deps/glad_gl.c",
+  "file": "/home/dulu/opengl_ex/build/_deps/glfw-src/deps/glad_gl.c"
+},
+{
+  "directory": "/home/dulu/opengl_ex/build",
+  "command": "/usr/bin/x86_64-w64-mingw32-gcc -I/home/dulu/opengl_ex/build/_deps/glfw-src/deps -I/home/dulu/opengl_ex/build/_deps/glfw-src/include -O3 -DNDEBUG -std=gnu99 -o _deps/glfw-build/tests/CMakeFiles/opacity.dir/opacity.c.obj -c /home/dulu/opengl_ex/build/_deps/glfw-src/tests/opacity.c",
+  "file": "/home/dulu/opengl_ex/build/_deps/glfw-src/tests/opacity.c"
+},
+{
+  "directory": "/home/dulu/opengl_ex/build",
+  "command": "/usr/bin/x86_64-w64-mingw32-gcc -I/home/dulu/opengl_ex/build/_deps/glfw-src/deps -I/home/dulu/opengl_ex/build/_deps/glfw-src/include -O3 -DNDEBUG -std=gnu99 -o _deps/glfw-build/tests/CMakeFiles/opacity.dir/__/deps/glad_gl.c.obj -c /home/dulu/opengl_ex/build/_deps/glfw-src/deps/glad_gl.c",
+  "file": "/home/dulu/opengl_ex/build/_deps/glfw-src/deps/glad_gl.c"
+},
+{
+  "directory": "/home/dulu/opengl_ex/build",
+  "command": "/usr/bin/x86_64-w64-mingw32-gcc -I/home/dulu/opengl_ex/build/_deps/glfw-src/deps -I/home/dulu/opengl_ex/build/_deps/glfw-src/include -O3 -DNDEBUG -std=gnu99 -o _deps/glfw-build/tests/CMakeFiles/tearing.dir/tearing.c.obj -c /home/dulu/opengl_ex/build/_deps/glfw-src/tests/tearing.c",
+  "file": "/home/dulu/opengl_ex/build/_deps/glfw-src/tests/tearing.c"
+},
+{
+  "directory": "/home/dulu/opengl_ex/build",
+  "command": "/usr/bin/x86_64-w64-mingw32-gcc -I/home/dulu/opengl_ex/build/_deps/glfw-src/deps -I/home/dulu/opengl_ex/build/_deps/glfw-src/include -O3 -DNDEBUG -std=gnu99 -o _deps/glfw-build/tests/CMakeFiles/tearing.dir/__/deps/glad_gl.c.obj -c /home/dulu/opengl_ex/build/_deps/glfw-src/deps/glad_gl.c",
+  "file": "/home/dulu/opengl_ex/build/_deps/glfw-src/deps/glad_gl.c"
+},
+{
+  "directory": "/home/dulu/opengl_ex/build",
+  "command": "/usr/bin/x86_64-w64-mingw32-gcc -I/home/dulu/opengl_ex/build/_deps/glfw-src/deps -I/home/dulu/opengl_ex/build/_deps/glfw-src/include -O3 -DNDEBUG -std=gnu99 -o _deps/glfw-build/tests/CMakeFiles/threads.dir/threads.c.obj -c /home/dulu/opengl_ex/build/_deps/glfw-src/tests/threads.c",
+  "file": "/home/dulu/opengl_ex/build/_deps/glfw-src/tests/threads.c"
+},
+{
+  "directory": "/home/dulu/opengl_ex/build",
+  "command": "/usr/bin/x86_64-w64-mingw32-gcc -I/home/dulu/opengl_ex/build/_deps/glfw-src/deps -I/home/dulu/opengl_ex/build/_deps/glfw-src/include -O3 -DNDEBUG -std=gnu99 -o _deps/glfw-build/tests/CMakeFiles/threads.dir/__/deps/tinycthread.c.obj -c /home/dulu/opengl_ex/build/_deps/glfw-src/deps/tinycthread.c",
+  "file": "/home/dulu/opengl_ex/build/_deps/glfw-src/deps/tinycthread.c"
+},
+{
+  "directory": "/home/dulu/opengl_ex/build",
+  "command": "/usr/bin/x86_64-w64-mingw32-gcc -I/home/dulu/opengl_ex/build/_deps/glfw-src/deps -I/home/dulu/opengl_ex/build/_deps/glfw-src/include -O3 -DNDEBUG -std=gnu99 -o _deps/glfw-build/tests/CMakeFiles/threads.dir/__/deps/glad_gl.c.obj -c /home/dulu/opengl_ex/build/_deps/glfw-src/deps/glad_gl.c",
+  "file": "/home/dulu/opengl_ex/build/_deps/glfw-src/deps/glad_gl.c"
+},
+{
+  "directory": "/home/dulu/opengl_ex/build",
+  "command": "/usr/bin/x86_64-w64-mingw32-gcc -I/home/dulu/opengl_ex/build/_deps/glfw-src/deps -I/home/dulu/opengl_ex/build/_deps/glfw-src/include -O3 -DNDEBUG -std=gnu99 -o _deps/glfw-build/tests/CMakeFiles/timeout.dir/timeout.c.obj -c /home/dulu/opengl_ex/build/_deps/glfw-src/tests/timeout.c",
+  "file": "/home/dulu/opengl_ex/build/_deps/glfw-src/tests/timeout.c"
+},
+{
+  "directory": "/home/dulu/opengl_ex/build",
+  "command": "/usr/bin/x86_64-w64-mingw32-gcc -I/home/dulu/opengl_ex/build/_deps/glfw-src/deps -I/home/dulu/opengl_ex/build/_deps/glfw-src/include -O3 -DNDEBUG -std=gnu99 -o _deps/glfw-build/tests/CMakeFiles/timeout.dir/__/deps/glad_gl.c.obj -c /home/dulu/opengl_ex/build/_deps/glfw-src/deps/glad_gl.c",
+  "file": "/home/dulu/opengl_ex/build/_deps/glfw-src/deps/glad_gl.c"
+},
+{
+  "directory": "/home/dulu/opengl_ex/build",
+  "command": "/usr/bin/x86_64-w64-mingw32-gcc -I/home/dulu/opengl_ex/build/_deps/glfw-src/deps -I/home/dulu/opengl_ex/build/_deps/glfw-src/include -O3 -DNDEBUG -std=gnu99 -o _deps/glfw-build/tests/CMakeFiles/title.dir/title.c.obj -c /home/dulu/opengl_ex/build/_deps/glfw-src/tests/title.c",
+  "file": "/home/dulu/opengl_ex/build/_deps/glfw-src/tests/title.c"
+},
+{
+  "directory": "/home/dulu/opengl_ex/build",
+  "command": "/usr/bin/x86_64-w64-mingw32-gcc -I/home/dulu/opengl_ex/build/_deps/glfw-src/deps -I/home/dulu/opengl_ex/build/_deps/glfw-src/include -O3 -DNDEBUG -std=gnu99 -o _deps/glfw-build/tests/CMakeFiles/title.dir/__/deps/glad_gl.c.obj -c /home/dulu/opengl_ex/build/_deps/glfw-src/deps/glad_gl.c",
+  "file": "/home/dulu/opengl_ex/build/_deps/glfw-src/deps/glad_gl.c"
+},
+{
+  "directory": "/home/dulu/opengl_ex/build",
+  "command": "/usr/bin/x86_64-w64-mingw32-gcc -I/home/dulu/opengl_ex/build/_deps/glfw-src/deps -I/home/dulu/opengl_ex/build/_deps/glfw-src/include -O3 -DNDEBUG -std=gnu99 -o _deps/glfw-build/tests/CMakeFiles/triangle-vulkan.dir/triangle-vulkan.c.obj -c /home/dulu/opengl_ex/build/_deps/glfw-src/tests/triangle-vulkan.c",
+  "file": "/home/dulu/opengl_ex/build/_deps/glfw-src/tests/triangle-vulkan.c"
+},
+{
+  "directory": "/home/dulu/opengl_ex/build",
+  "command": "/usr/bin/x86_64-w64-mingw32-gcc -I/home/dulu/opengl_ex/build/_deps/glfw-src/deps -I/home/dulu/opengl_ex/build/_deps/glfw-src/include -O3 -DNDEBUG -std=gnu99 -o _deps/glfw-build/tests/CMakeFiles/triangle-vulkan.dir/__/deps/glad_vulkan.c.obj -c /home/dulu/opengl_ex/build/_deps/glfw-src/deps/glad_vulkan.c",
+  "file": "/home/dulu/opengl_ex/build/_deps/glfw-src/deps/glad_vulkan.c"
+},
+{
+  "directory": "/home/dulu/opengl_ex/build",
+  "command": "/usr/bin/x86_64-w64-mingw32-gcc -I/home/dulu/opengl_ex/build/_deps/glfw-src/deps -I/home/dulu/opengl_ex/build/_deps/glfw-src/include -O3 -DNDEBUG -std=gnu99 -o _deps/glfw-build/tests/CMakeFiles/windows.dir/windows.c.obj -c /home/dulu/opengl_ex/build/_deps/glfw-src/tests/windows.c",
+  "file": "/home/dulu/opengl_ex/build/_deps/glfw-src/tests/windows.c"
+},
+{
+  "directory": "/home/dulu/opengl_ex/build",
+  "command": "/usr/bin/x86_64-w64-mingw32-gcc -I/home/dulu/opengl_ex/build/_deps/glfw-src/deps -I/home/dulu/opengl_ex/build/_deps/glfw-src/include -O3 -DNDEBUG -std=gnu99 -o _deps/glfw-build/tests/CMakeFiles/windows.dir/__/deps/getopt.c.obj -c /home/dulu/opengl_ex/build/_deps/glfw-src/deps/getopt.c",
+  "file": "/home/dulu/opengl_ex/build/_deps/glfw-src/deps/getopt.c"
+},
+{
+  "directory": "/home/dulu/opengl_ex/build",
+  "command": "/usr/bin/x86_64-w64-mingw32-gcc -I/home/dulu/opengl_ex/build/_deps/glfw-src/deps -I/home/dulu/opengl_ex/build/_deps/glfw-src/include -O3 -DNDEBUG -std=gnu99 -o _deps/glfw-build/tests/CMakeFiles/windows.dir/__/deps/glad_gl.c.obj -c /home/dulu/opengl_ex/build/_deps/glfw-src/deps/glad_gl.c",
+  "file": "/home/dulu/opengl_ex/build/_deps/glfw-src/deps/glad_gl.c"
+},
+{
+  "directory": "/home/dulu/opengl_ex/build",
+  "command": "/usr/bin/x86_64-w64-mingw32-gcc -I/home/dulu/opengl_ex/build/_deps/glad-build/include -O3 -DNDEBUG -o _deps/glad-build/CMakeFiles/glad.dir/src/glad.c.obj -c /home/dulu/opengl_ex/build/_deps/glad-build/src/glad.c",
+  "file": "/home/dulu/opengl_ex/build/_deps/glad-build/src/glad.c"
+}
+]

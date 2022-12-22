@@ -14,6 +14,7 @@ void OnFramebufferSizeChange(GLFWwindow *window, int width, int height)
   context->Reshape(width, height);
 }
 
+// 키보드 입력
 void OnKeyEvent(GLFWwindow *window, int key, int scancode, int action, int mods)
 {
   ImGui_ImplGlfw_KeyCallback(window, key, scancode, action, mods);
@@ -31,17 +32,20 @@ void OnKeyEvent(GLFWwindow *window, int key, int scancode, int action, int mods)
   }
 }
 
+// ImGui 입력
 void OnCharEvent (GLFWwindow* window, unsigned int ch)
 {
   ImGui_ImplGlfw_CharCallback(window, ch);
 }
 
+// 마우스 위치
 void OnCursorPos(GLFWwindow* window, double x, double y)
 {
   auto context = reinterpret_cast<Context*>(glfwGetWindowUserPointer(window));
   context->MouseMove(x, y);
 }
 
+// 마우스 클릭
 void OnMouseButton(GLFWwindow* window, int button, int action, int modifier)
 {
   ImGui_ImplGlfw_MouseButtonCallback(window, button, action, modifier);
@@ -51,6 +55,7 @@ void OnMouseButton(GLFWwindow* window, int button, int action, int modifier)
   context->MouseButton(button, action, x, y);
 }
 
+// ImGui 크기 조절
 void OnScroll(GLFWwindow* window, double xoffset, double yoffset)
 {
   ImGui_ImplGlfw_ScrollCallback(window, xoffset, yoffset);
